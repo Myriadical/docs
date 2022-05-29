@@ -9,7 +9,7 @@ const config = {
   title: 'Myriadical Documentation',
   tagline: 'Join Myriadical now!',
   url: 'https://myriadical.com',
-  baseUrl: '/',
+  baseUrl: '/help/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
