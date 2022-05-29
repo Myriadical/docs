@@ -23,4 +23,4 @@ From time to time you'll encounter boxes like this one. These will provide **add
 
 ## Useful links
 
-**[Rules](/docs/category/rules)**
+**[Rules](/category/rules)**
