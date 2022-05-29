@@ -17,7 +17,7 @@ So without further ado, let's get to the interesting stuff!
 
 :::tip What's this?
 
-From time to time you'll encounter boxes like this one. These will provide **additional information** as well as **tipps and tricks** or **common errors** .
+From time to time you'll encounter boxes like this one. These will provide **additional information** as well as **tips and tricks** or **common mistakes** .
 
 :::
 
