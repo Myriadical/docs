@@ -50,3 +50,48 @@ Joining the server is your **first step** to finding your new favorite place. Bu
   </TabItem>
 </Tabs>
 
+### Supported versions:
+<table>
+  <tr>
+    <th>Version:</th>
+    <th>Java Edition</th>
+    <th>Bedrock Edition</th>
+  </tr>
+  <tr>
+    <th>1.19</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x2705;</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x2705;</th>
+  </tr>
+  <tr>
+    <th>1.13.x - 1.18.x</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x2705;</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x274C;</th>
+  </tr>
+  <tr>
+    <th>1.7 - 1.12.x</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x26A0;</th>
+    <th style={{
+      fontSize: "24px",
+      padding: "0px",
+      }}>&#x274C;</th>
+  </tr>
+</table>
+
+&#x2705 - fully supported<br></br>
+&#x26A0 - server should work but no support will be given<br></br>
+&#x274C - not supported
